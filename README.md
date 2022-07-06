@@ -1,4 +1,4 @@
 # Running with Gradle
-```aidl
+```shell
 ./gradlew run -Pmain=com.sdurgut.algorithms.search.BinarySearch
 ```
